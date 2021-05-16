@@ -1,5 +1,6 @@
 
 // Dependency inversion principle
+// Грубо говоря, не нужно жёстко привязывать класс к одному стейту
 class Fetch {
     request(url) {
       // return fetch(url).then(r => r.json())
