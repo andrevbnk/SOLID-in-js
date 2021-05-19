@@ -1,4 +1,4 @@
-// Single Responsibility, решил повспоминать SOLID, заодно показывать HR или смотрящим мой код что я понимаю принципы SOLID на примерах
+// Single Responsibility
 
 class Car { //
   constructor({model,cost,color}){
